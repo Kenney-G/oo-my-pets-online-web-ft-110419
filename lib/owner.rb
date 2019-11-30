@@ -62,7 +62,6 @@ def sell_pets
   sell(pet) = pet.owner = nil
   pets.each do |pet|
     sell(pet)
-
   end
 end
 
