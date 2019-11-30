@@ -67,3 +67,4 @@ end
 def list_pets
   pets.count
 end
+end
