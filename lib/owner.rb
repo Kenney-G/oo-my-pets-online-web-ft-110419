@@ -54,8 +54,8 @@ def feed_cats
 end
 
 def pets
-  dogs_owned = self.dogs.all
-  cats_owned = self.cats.all
+self.dogs
+self.cats
 end
 
 def sell_pets
