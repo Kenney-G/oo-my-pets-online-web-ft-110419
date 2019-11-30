@@ -64,6 +64,6 @@ def sell_pets
   end
 end
 
-list
+list_pets
 
 end
